@@ -1,0 +1,26 @@
+body{
+    font-family: 'Helvetica Neue';
+}
+
+h2{
+    font-weight: bold;
+    color: white;
+    margin-bottom:0;
+}
+
+.navbar{
+    margin-bottom: 1rem;
+}
+
+.bg-dark{
+    background-color: #666666;
+}
+
+footer{
+    background: #666666;
+    background-image: url(bg-seal.png);
+    background-repeat: no-repeat;
+    background-position-x: 10px;
+    background-position-y: 10px;
+    background-size: 500px;
+}
